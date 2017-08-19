@@ -190,7 +190,7 @@
     display: none;
 }
 
-@media screen and  (max-width: 980px) {
+@media screen and  (max-width: 1152px) {
     #social-media
     {
         padding-left: 10px;

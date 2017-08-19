@@ -291,6 +291,38 @@
         font-weight: bold;
     }
 
+    .row-main .col-left img
+    {
+        float: none;
+        height: 300px;
+        width: 300px;
+    }
+
+    .row-main .col-left .img-container
+    {
+        text-align: center;
+    }
+
+    .row-main .col-left
+    {
+        border:1px solid #dddddd;
+        padding: 30px;
+        position: relative;
+        float: none;
+        width: 75%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .row-main .col-left .custom-h1, .row-main .col-left p
+    {
+        position: relative;
+        float: none;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+
     #navigation
     {
         padding-top: 5px;
